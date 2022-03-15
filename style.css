@@ -1,0 +1,154 @@
+/* .elements {
+    margin-top: -30rem;
+} */
+
+
+.right {
+  margin-top: 7rem;
+} 
+
+.right h6 {
+   margin: 0;
+   font-size: 10px;
+   letter-spacing: 1px;
+}
+
+.right h6,
+h1 {
+  font-family: Poppins;
+  margin-left: 10rem;
+  
+  
+}
+
+.right h1 {
+  width: 350px;
+  font-size: 45px;
+  color: rgba(69, 82, 91, 1);
+  line-height: 42px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  text-align: justify;
+}
+
+.left {
+    margin-top: 4rem;
+   
+}
+
+.left p {
+    font-family: Poppins;
+    font-size: 14px;
+    
+}
+
+.left p.custom {
+    margin: 0;
+    width: 395px;
+    
+}
+
+.info {
+    margin-left: 14rem;
+}
+
+.info img {
+    width: 330px;
+    height: 380px;
+    margin-left: 7rem;
+}
+
+.requirements h1 {
+    font-size: 35px;
+    color: rgba(69, 82, 91, 1);
+    font-family: Poppins;
+}
+
+.col-lg-12 p{
+    width: 400px;
+    text-align: center;
+    font-size: 17px;
+    color: rgba(111,114,120,1);
+    line-height: 17px;
+    font-family: Poppins;
+}
+
+.col {
+    margin-top: 3rem;
+    margin-bottom: 4rem;
+}
+
+.col h6 {
+    margin-top: 2px;
+    color: rgba(69, 82, 91, 1);
+    margin: 0;
+    margin-top: 5px;
+}
+
+.col h6, p {
+    font-size: 14px;
+    font-family: Poppins;
+    color: rgba(111,114,120,1);
+}
+
+.col p {
+    width: 195px;
+    line-height: 13px;
+}
+
+.col a {
+    width: 48px;
+    height: 48px;
+    color: rgba(255,255,255,1);
+    background-color: rgba(69, 82, 91, 1);
+    
+}
+
+.current {
+    margin-left: 7rem;
+    margin-top: 7rem;
+    font-family: Poppins;
+    font-weight: 400;
+    color: rgba(69, 82, 91, 1);
+}
+
+.current p {
+    font-family: Poppins;
+    width: 460px;
+    letter-spacing: -1px;
+    font-size: 17px;
+    line-height: 22px;
+    text-align: justify;
+}
+
+.all-details {
+    margin-left: 4rem;
+}
+
+.details1 h5 {
+    color: rgba(111,114,120,1);
+    font-size: 12px;
+    margin-left: 5rem;
+}
+
+.details {
+    display: flex;
+    justify-content: space-between;
+    width: 3rem;
+    
+}
+
+.details h4 {    
+    width: 65px;
+    font-size: 12px;
+    
+    font-family: Poppins;
+}
+
+
+/* .col-lg-4 {
+    margin-left: ;
+} */
+/* .col-lg-12 h6, h1 {
+     font-family: Poppins;
+} */
